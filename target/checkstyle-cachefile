@@ -1,0 +1,5 @@
+#Sat Aug 24 23:34:20 IST 2024
+configuration*?=BC8D9CD38A7CB185CEE8A6FF5FFBB333CEE126A1
+module-resource*?\:checkstyle-xpath-suppressions.xml=855A5594A5EB454137CE2766F822167B95EFEA01
+module-resource*?\:checkstyle-suppressions.xml=A4ABD85CBE6E10C0BA7D59CFA540505DE3790972
+/var/lib/jenkins/workspace/ubuntu/src/main/resources/application.properties=1723990021150

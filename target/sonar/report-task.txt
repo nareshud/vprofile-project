@@ -1,0 +1,6 @@
+projectKey=vprofile
+serverUrl=http://3.145.11.69
+serverVersion=8.3.0.34182
+dashboardUrl=http://3.145.11.69/dashboard?id=vprofile
+ceTaskId=AZGFj-Xjkn7wcpaJ6jpL
+ceTaskUrl=http://3.145.11.69/api/ce/task?id=AZGFj-Xjkn7wcpaJ6jpL
